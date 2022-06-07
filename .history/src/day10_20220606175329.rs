@@ -1,0 +1,1 @@
+//Handling of duplications in rust is done with the generics tool. 

@@ -1,0 +1,1 @@
+//The standard library consists of useful data sctructure called collections. 
