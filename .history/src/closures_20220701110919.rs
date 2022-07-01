@@ -1,0 +1,3 @@
+struct Cars{
+    maker: &'sta
+}
